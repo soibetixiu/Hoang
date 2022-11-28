@@ -1,7 +1,7 @@
 create table hoang;
 use hoang;
 
--creat table: department
+--creat table: department
 CREATE TABLE department (
     departmentid INT,
     departmentname VARCHAR(50)
