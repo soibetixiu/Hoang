@@ -1,7 +1,7 @@
-create table hoang;
-use hoang;
+DROP DATABASE IF EXISTS testing_system_assignment_1;
+CREATE DATABASE testing_system_assignment_1;
+use testing_system_assignment_1;
 
---creat table: department
 CREATE TABLE department (
     departmentid INT,
     departmentname VARCHAR(50)
